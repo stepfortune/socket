@@ -1,0 +1,17 @@
+h2{
+    color : darkgray;
+}
+table, td, th {
+    border: 1px solid black;
+    text-align : center;
+}
+table {
+    border-collapse: collapse;
+}
+
+td {
+    height: 25px;
+}
+tr  {
+    width: 550px;
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "group1",
+    "client": [
+      { "type": "thunder", "num": 10 },
+      { "type": "humidity", "num": 10 },
+      { "type": "temperature", "num": 10 },
+      { "type": "pressure", "num": 10 }
+    ],
+    "creater": "admin",
+    "time": "2018-5-20"
+  },
+  {
+    "name": "group2",
+    "client": [
+      { "type": "thunder", "num": 10 },
+      { "type": "humidity", "num": 10 },
+      { "type": "temperature", "num": 10 },
+      { "type": "pressure", "num": 10 }
+    ],
+    "creater": "admin",
+    "time": "2018-5-20"
+  },
+  {
+    "name": "group1",
+    "client": [
+      { "type": "thunder", "num": 10 },
+      { "type": "humidity", "num": 10 },
+      { "type": "temperature", "num": 10 },
+      { "type": "pressure", "num": 10 }
+    ],
+    "creater": "admin",
+    "time": "2018-5-20"
+  },
+  {
+    "name": "group1",
+    "client": [
+      { "type": "thunder", "num": 10 },
+      { "type": "humidity", "num": 10 },
+      { "type": "temperature", "num": 10 },
+      { "type": "pressure", "num": 10 }
+    ],
+    "creater": "admin",
+    "time": "2018-5-20"
+  }
+]

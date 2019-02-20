@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "type": "humidity",
+    "desc": "made in china",
+    "host": "127.0.0.1",
+    "port": "8080",
+    "state": "offline",
+    "latestMsg": "tomorrow is sunny"
+  },
+  {
+    "id": 2,
+    "type": "temperature",
+    "desc": "made in china",
+    "host": "127.0.0.1",
+    "port": "8081",
+    "state": "offline",
+    "latestMsg": "today's temperature is 39 degree"
+  },
+  {
+    "id": 3,
+    "type": "thunder",
+    "desc": "made in china",
+    "host": "127.0.0.1",
+    "port": "8082",
+    "state": "online",
+    "latestMsg": "today has thunder storm"
+  }
+]

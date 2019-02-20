@@ -1,0 +1,24 @@
+{
+  "thunder": [
+    { "id": 1, "msg": "msg of thunder", "active": false, "interval": 10 },
+    { "id": 2, "msg": "msg of thunder", "active": false, "interval": 100 },
+    { "id": 9, "msg": "msg of thunder", "active": false, "interval": 10 },
+    { "id": 10, "msg": "msg of thunder", "active": false, "interval": 100 },
+    { "id": 11, "msg": "msg of thunder", "active": false, "interval": 10 },
+    { "id": 12, "msg": "msg of thunder", "active": false, "interval": 100 },
+    { "id": 13, "msg": "msg of thunder", "active": false, "interval": 10 },
+    { "id": 14, "msg": "msg of thunder", "active": false, "interval": 100 }
+  ],
+  "humidity": [
+    { "id": 3, "msg": "msg of humidity", "active": false, "interval": 10 },
+    { "id": 4, "msg": "msg of humidity", "active": false, "interval": 10 }
+  ],
+  "pressure": [
+    { "id": 5, "msg": "msg of pressure", "active": false, "interval": 10 },
+    { "id": 6, "msg": "msg of pressure", "active": false, "interval": 10 }
+  ],
+  "temperature": [
+    { "id": 7, "msg": "msg of temperature", "active": false, "interval": 10 },
+    { "id": 8, "msg": "msg of temperature", "active": false, "interval": 10 }
+  ]
+}
